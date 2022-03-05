@@ -4,6 +4,9 @@ function App() {
   return (
     <div className='App'>
       <h1>Hello React Todo App</h1>
+      <h2>
+        Adding <h2>H2 element</h2>
+      </h2>
     </div>
   )
 }
